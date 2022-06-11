@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://aminoapps.com/c/otaku-life-tm-1/page/user/g-o-j-o-u/kaYk_6zi4fp85VqxoeZrDlv4ZR2prL15pK">
+  <img align="right" alt="TIOSAM-pic" height="150" style="border-radius:50px;" src="https://pa1.narvii.com/7848/4adefec23767498603ac11e87331fcc86c7b3585r1-640-604_hq.gif">
 </div>
   
   ##
