@@ -28,6 +28,9 @@
   <div align="left">
   <a href="https://github.com/TIOSAMBR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TIOSAMBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      </div>
+       <div align="right">
+           <a href="https://github.com/TIOSAMBR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIOSAMBR&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
