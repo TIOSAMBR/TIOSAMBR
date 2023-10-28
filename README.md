@@ -12,6 +12,7 @@
   <img align="center" alt="TIOSAM-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="TIOSAM-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="TIOSAM-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/dcsn1OFQ7JsAAAAd/satoru-gojou-gojou.gif">
+    <br>
 </div>
 <br>
  
