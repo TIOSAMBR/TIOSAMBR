@@ -3,7 +3,7 @@
 
 <!-- About -->
 <div align="center">
-  <h2>👋 Sobre Mim</h2>
+  <h2> Sobre Mim</h2>
   <p>
     Desenvolvedor Full-Stack | Estudante de Sistemas para Internet no IF Goiano <br>
     Entusiasta de tecnologia, sempre em busca de aprendizado e inovação. 🚀
