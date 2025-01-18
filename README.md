@@ -18,12 +18,15 @@
   <h2>🛠️ Habilidades Técnicas</h2>
 
   <!-- Frameworks -->
-  <h3>Frameworks</h3>
+  <h3>Frameworks e Linguagens</h3>
   <div>
+    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" height="28">
+    <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=777BB4" height="28">
     <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" height="28">
+    <img src="https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=0175C2" height="28">
+    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="28">
+    <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=007396" height="28">
     <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=339933" height="28">
-    <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" height="28">
-    <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=7952B3" height="28">
   </div>
 
   <!-- Tools -->
@@ -31,8 +34,8 @@
   <div>
     <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032" height="28">
     <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED" height="28">
-    <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624" height="28">
     <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=336791" height="28">
+    <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" height="28">
   </div>
 
   <!-- GIF -->
