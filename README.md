@@ -10,20 +10,6 @@
   </p>
 </div>
 
-<!-- Social Media -->
-<div align="center">
-  <h2>🌐 Conecte-se Comigo</h2>
-  <a href="https://www.instagram.com/_samueltoledo_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=#E4405F" height="28">
-  </a>
-  <a href="mailto:damucod@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=#D14836" height="28">
-  </a>
-  <a href="https://www.linkedin.com/in/samuel-toledo-46408a279/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=#0A66C2" height="28">
-  </a>
-</div>
-
 <!-- Divider -->
 <hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, #666, transparent); margin: 30px 0;"/>
 
@@ -51,6 +37,20 @@
     <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=336791" height="28">
     <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" height="28">
   </div>
+
+  <!-- Social Media -->
+<div align="center">
+  <h2>🌐 Social Media</h2>
+  <a href="https://www.instagram.com/_samueltoledo_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=#E4405F" height="28">
+  </a>
+  <a href="mailto:damucod@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=#D14836" height="28">
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-toledo-46408a279/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=#0A66C2" height="28">
+  </a>
+</div>
 
   <!-- GIF -->
   <div>
