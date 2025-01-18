@@ -1,5 +1,5 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=150&section=header&text=Bem-vindo%20ao%20perfil%20do%20TIOSAM&fontSize=30&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=150&section=header&text=Welcome&fontSize=30&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn"/>
 
 <!-- About -->
 <div align="center">
