@@ -40,7 +40,7 @@
   <!-- Social Media -->
 <div align="center">
   <h2> Social Media</h2>
-  <a href="https://www.instagram.com/_samueltoledo_/" target="_blank">
+  <a href="https://www.instagram.com/samuel_toledo_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=#E4405F" height="28">
   </a>
   <a href="mailto:damucod@gmail.com" target="_blank">
