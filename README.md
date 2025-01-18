@@ -1,50 +1,40 @@
-## 🌟 BEM-VINDO AO PERFIL DE **TIOSAM**! 🎉
+<!-- Header -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=header"/>
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <div>
-    <h3>💻 Tecnologias que domino:</h3>
-    <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-      <img alt="TIOSAM-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img alt="TIOSAM-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-      <img alt="TIOSAM-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img alt="TIOSAM-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img alt="TIOSAM-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </div>
-  </div>
-  <img alt="TIOSAM-pic" height="150" style="border-radius: 50%; margin: 10px;" src="https://c.tenor.com/dcsn1OFQ7JsAAAAd/satoru-gojou-gojou.gif">
+<!-- About -->
+<div align="center">
+  <h2>Sobre Mim</h2>
+  <p><br>
+    Desenvolvedor Full-Stack | Estudante de Sistemas para Internet no IF Goiano - Campus Morrinhos | Apaixonado por Tecnologia e Aprendizado Contínuo
+  </p>
 </div>
 
----
+<br>
 
-<div style="text-align: center;">
-  <h3>🌐 Conecte-se comigo:</h3>
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-    <a href="https://www.instagram.com/_samueltoledo_/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://www.twitch.tv/tiosam_brz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-    <a href="https://discord.gg/tS4xux3" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="mailto:damucod@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/samuel-toledo-46408a279/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  </div>
+<!-- Skills -->
+<div align="center">
+  <h2>Habilidades Técnicas</h2>
+
+  <br>
+
+  <h3>Frameworks e Bibliotecas</h3>
+  <a><img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" height="28" width="100" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs" height="28" width="120" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" height="28" width="120" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" height="28" width="120" target="_blank"></a>
+
+  <h3>Ferramentas e Tecnologias</h3>
+  <a><img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" height="28" width="100" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" height="28" width="120" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" height="28" width="80" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker" height="28" width="100" target="_blank"></a>
+  <a><img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" height="28" width="100" target="_blank"></a>
+
+  <br><br>
+  <img alt="TIOSAM-Pic" height="120" width="120" style="border-radius: 50%;" src="https://c.tenor.com/dcsn1OFQ7JsAAAAd/satoru-gojou-gojou.gif">
 </div>
 
----
+<br>
 
-<div>
-  <h3>📊 Estatísticas:</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <img height="158em" src="https://github-readme-stats.vercel.app/api?username=TIOSAMBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIOSAMBR&layout=compact&langs_count=7&theme=dark">
-  </div>
-</div>
-
----
-
-<div style="text-align: center; margin-top: 20px;">
-  <h3>🐍 Contribuições no GitHub:</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<!-- Footer -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=footer"/>
