@@ -14,13 +14,13 @@
 <div align="center">
   <h2>🌐 Conecte-se Comigo</h2>
   <a href="https://www.instagram.com/_samueltoledo_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=#E4405F" height="28">
   </a>
   <a href="mailto:damucod@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=#D14836" height="28">
   </a>
   <a href="https://www.linkedin.com/in/samuel-toledo-46408a279/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=#0A66C2" height="28">
   </a>
 </div>
 
