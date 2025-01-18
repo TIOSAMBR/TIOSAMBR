@@ -26,7 +26,6 @@
     <img src="https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=0175C2" height="28">
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="28">
     <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=007396" height="28">
-    <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=339933" height="28">
   </div>
 
   <!-- Tools -->
@@ -66,7 +65,7 @@
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=120&section=footer"/>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <a href="https://github.com/TIOSAMBR">
   <img height="158em" src="https://github-readme-stats.vercel.app/api?username=TIOSAMBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIOSAMBR&layout=compact&langs_count=7&theme=dark"/>
