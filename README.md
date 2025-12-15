@@ -22,7 +22,6 @@
   <div>
     <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" height="28">
     <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=777BB4" height="28">
-    <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" height="28">
     <img src="https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=0175C2" height="28">
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="28">
     <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=007396" height="28">
